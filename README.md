@@ -1,4 +1,4 @@
-# 📝 TASKMASTER: Produtividade Inteligente
+#  TASKMASTER: Produtividade Inteligente
 ### *Organize sua rotina com foco total e interface minimalista*
 **“A simplicidade é o último grau da sofisticação no gerenciamento de tarefas.”**
 
@@ -8,23 +8,23 @@
 
 ---
 
-## 🚀 BADGES
+##  BADGES
 
-### 💻 TECNOLOGIAS & STACK
+### TECNOLOGIAS & STACK
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### ☁️ CLOUD & SERVICES
+###  CLOUD & SERVICES
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 📊 STATUS DO PROJETO
+###  STATUS DO PROJETO
 ![STATUS](https://img.shields.io/badge/STATUS-PUBLICADO-success?style=for-the-badge)
 
 ---
 
-# 📖 SOBRE O PROJETO
+#  SOBRE O PROJETO
 
 O **TaskMaster** é uma aplicação de gerenciamento de tarefas (To-Do List) desenvolvida para oferecer uma experiência de usuário ultra-rápida e intuitiva. O foco principal foi criar uma interface **Dark Mode** elegante, utilizando o poder do **Tailwind CSS** para estilização e a segurança do **TypeScript** para manipulação do estado das tarefas.
 
@@ -32,7 +32,7 @@ Criado para demonstrar domínio em manipulação de Arrays, persistência local 
 
 ---
 
-# 🛠️ DESAFIOS E SOLUÇÕES
+#  DESAFIOS E SOLUÇÕES
 
 Este projeto foca na agilidade e na persistência de dados no lado do cliente, garantindo que o usuário não perca suas informações:
 
@@ -45,21 +45,21 @@ Este projeto foca na agilidade e na persistência de dados no lado do cliente, g
 
 ---
 
-# ✨ FUNCIONALIDADES CHAVE
+#  FUNCIONALIDADES CHAVE
 
-### ✅ GESTÃO DE TAREFAS
+###  GESTÃO DE TAREFAS
 - Criação, conclusão e exclusão de tarefas em tempo real.
 - Contador de tarefas pendentes e concluídas.
 - Filtros de status para melhor organização.
 
-### 🎨 INTERFACE (UI/UX)
+###  INTERFACE (UI/UX)
 - Estética **Deep Dark** com acentos em cores vibrantes.
 - Feedback visual imediato ao completar uma tarefa.
 - Favicon personalizado com a identidade visual da marca.
 
 ---
 
-# ⚡ TECNOLOGIAS UTILIZADAS
+#  TECNOLOGIAS UTILIZADAS
 
 | Tecnologia | Função no Projeto | Por que foi escolhida? |
 | :--- | :--- | :--- |
@@ -70,12 +70,12 @@ Este projeto foca na agilidade e na persistência de dados no lado do cliente, g
 
 ---
 
-# 🎥 DEMONSTRAÇÃO
+#  DEMONSTRAÇÃO
 
 🔗 **Site Oficial:**
 [https://task-master-six-alpha.vercel.app/](https://task-master-six-alpha.vercel.app/)
 
-### 🖼️ CAPTURAS DE TELA
+###  CAPTURAS DE TELA
 
 > *(Substitua pelos caminhos reais das suas prints)*
 
@@ -83,7 +83,7 @@ Este projeto foca na agilidade e na persistência de dados no lado do cliente, g
 
 ---
 
-# 🎯 OBJETIVO
+#  OBJETIVO
 
 Este projeto compõe meu portfólio para demonstrar habilidades técnicas em:
 
