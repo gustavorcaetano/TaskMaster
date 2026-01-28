@@ -1,6 +1,8 @@
 import { useState } from "react";
 import type { ITarefa } from "./types/tarefa";
 import { TarefaItem } from "./components/TarefaItem";
+import logo from './assets/favicon.png'; // Ajuste os pontos ../ se necessário
+
 
 export default function App() {
   // Estado para a lista: Começa como um array vazio de ITarefa
@@ -51,8 +53,7 @@ export default function App() {
       {/* Header Superior */}
       <header className="max-w-4xl mx-auto flex justify-between items-center mb-12 text-xs tracking-[0.2em] text-gray-500 font-bold">
         <div className="flex items-center gap-2">
-          <img
-            src="../public/favicon.png"
+          <img src={logo}
             className="bg-gray-700 w-8 h-8 p-1 rounded-full"
             alt="Ícone inicial"
           />{" "}
