@@ -1,7 +1,7 @@
 import { useState } from "react";
 import type { ITarefa } from "./types/tarefa";
 import { TarefaItem } from "./components/TarefaItem";
-import logo from './assets/favicon.png'; // Ajuste os pontos ../ se necessário
+import logo from '../public/favicon.png'; // Ajuste os pontos ../ se necessário
 
 
 export default function App() {
