@@ -93,7 +93,7 @@ Este projeto compõe meu portfólio para demonstrar habilidades técnicas em:
 
 ---
 
-# 👤 AUTOR
+#  AUTOR
 
 **Gustavo Ramos Caetano**
 Desenvolvedor Web • Estudante do IFSP Guarulhos
@@ -103,6 +103,6 @@ Desenvolvedor Web • Estudante do IFSP Guarulhos
 
 ---
 
-# 📜 Licença
+#  Licença
 
 Este projeto é de código aberto e educacional.
